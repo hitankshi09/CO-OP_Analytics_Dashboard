@@ -7,7 +7,6 @@ This repository contains the code and resources for analyzing six years of co-op
 - **Dashboard Design**: Designed an interactive dashboard using Power BI, featuring sections highlighting dominant skills among students of different majors and skill gaps according to employers' perspectives.
 
 ### Repository Contents:
-- **Python Scripts**: Contains scripts used for data analysis, sentiment analysis, and preprocessing.
 - **Data Files**: Includes datasets used for analysis.
 - **Power BI Dashboard**: Contains the Power BI dashboard file showcasing the analysis results.
 
